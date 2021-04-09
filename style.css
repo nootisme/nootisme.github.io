@@ -1,0 +1,12 @@
+body {
+    background-color
+    background-image: url("https://ichef.bbci.co.uk/news/976/cpsprodpb/2E50/production/_101865811_pizzagetty.jpg");
+    background-size: 100px 100px;
+    background-repeat: repeat;
+}
+
+.pizza {
+    text-align: center;
+    color:rgb(255, 0, 0);
+    font-size: 100px;
+}
